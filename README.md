@@ -1,7 +1,7 @@
 ![Bingo logo](https://raw.githubusercontent.com/SuperDelphi/bingo/master/bingo.png)
 
 # bingo
-Your idea notebook, right in the terminal.
+Your idea notebook, right in the terminal. This was inspired by the Eurêka CLI tool (kudos to them), but with a more straight-forward approach.
 
 ## Compatibility
 
